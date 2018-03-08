@@ -1,3 +1,25 @@
+# README.md 찾기
+
+~~~
+.
+├── README.md (본 파일)
+└── app/
+    ├── src/
+    |   └── main/
+    |       └── MAIN.md
+    └── APP.md
+~~~
+
+각각의 문서에 관한 개요입니다.
+
+
+문서 | 설명
+---|---
+[APP.md](app/APP.md) |  앱 빌드 관련
+[MAIN.md](app/src/main/MAIN.md) | 안드로이드 관련 설정 파일들
+
+---
+
 # 제목
 
 ## 소제목
